@@ -1,7 +1,6 @@
 # 🚀 Flask Signup & Login Page
-<img src="https://github.com/user-attachments/assets/170e9036-abd8-4512-a3e1-01b4f2057860" alt="Custom Icon" width="1050" height="350">
+<img src="https://github.com/user-attachments/assets/4fd697f8-83d8-4331-b47b-926aa7a07839" alt="Custom Icon" width="1050" height="700">
 
-[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Framework-Flask-blue.svg)](https://flask.palletsprojects.com/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-blue.svg)](https://www.sqlite.org/)
 
@@ -69,33 +68,6 @@ class User(db.Model):
   ```
 
 ---
-
-## 🎨 Frontend Design
-
-### Welcome Page (`index.html`)
-- **Purpose**: Landing page with options to sign up or log in.
-- **Design**:
-  - Gradient background with blur effect.
-  - Centered container with buttons for navigation.
-  - Smooth hover animations.
-
-### Login Page (`login.html`)
-- **Purpose**: User authentication.
-- **Design**:
-  - Input fields for email and password.
-  - Google Sign-In button (placeholder). (dummy button)
-  - Link to the signup page.
-  - Real-time form validation.
-
-### Signup Page (`signup.html`)
-- **Purpose**: User registration.
-- **Design**:
-  - Input fields for username, email, and password.
-  - Password strength validation.
-  - Google Sign-In button (placeholder). (dummy button)
-  - Link to the login page.
-
----
 ## 📥 Installation Guide
 
 ### Prerequisites
@@ -107,7 +79,7 @@ class User(db.Model):
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/signup-login-project.git
+   git clone https://github.com/saifee3/signup-login-project.git
    cd signup-login-project
    ```
 
@@ -191,8 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Credits
 
 - **Flask Development Team** - [@pallets](https://github.com/pallets/flask)
-- Python Development Community
-- **[Real Python](https://realpython.com/python-for-data-analysis/)** - Banner image sourced from their tutorial. 
+- Python Development Community 
 
 [![Open in GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/saifee3/covid19_eda) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saifee3/covid19_eda/main)
 
