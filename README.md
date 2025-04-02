@@ -1,8 +1,9 @@
 # 🚀 Flask Signup & Login Page
+<img src="https://github.com/user-attachments/assets/170e9036-abd8-4512-a3e1-01b4f2057860" alt="Custom Icon" width="1050" height="350">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-4.15.2-green?logo=selenium)
-![License](https://img.shields.io/badge/License-MIT-red)
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Framework-Flask-blue.svg)](https://flask.palletsprojects.com/)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-blue.svg)](https://www.sqlite.org/)
 
 ## 🌟 Features
 
@@ -189,10 +190,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Credits
 
-- Flask Development Team - [@pallets](https://github.com/pallets/flask)
+- **Flask Development Team** - [@pallets](https://github.com/pallets/flask)
 - Python Development Community
-- Banner Image - [realpython.com](https://realpython.com)
+- **[Real Python](https://realpython.com/python-for-data-analysis/)** - Banner image sourced from their tutorial. 
 
+[![Open in GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/saifee3/covid19_eda) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saifee3/covid19_eda/main)
 
 
 
