@@ -1,6 +1,4 @@
-git repo name: FlaskSignupLogin
-
-# 🚀 Flask Signup & Login System
+# 🚀 Flask Signup & Login Page
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.15.2-green?logo=selenium)
@@ -84,7 +82,7 @@ class User(db.Model):
 - **Purpose**: User authentication.
 - **Design**:
   - Input fields for email and password.
-  - Google Sign-In button (placeholder).
+  - Google Sign-In button (placeholder). (dummy button)
   - Link to the signup page.
   - Real-time form validation.
 
@@ -93,7 +91,7 @@ class User(db.Model):
 - **Design**:
   - Input fields for username, email, and password.
   - Password strength validation.
-  - Google Sign-In button (placeholder).
+  - Google Sign-In button (placeholder). (dummy button)
   - Link to the login page.
 
 ---
@@ -123,17 +121,12 @@ class User(db.Model):
    pip install -r requirements.txt
    ```
 
-4. **Initialize the Database**
-   ```bash
-   flask init-db
-   ```
-
-5. **Run the Application**
+4. **Run the Application**
    ```bash
    python app.py
    ```
 
-6. **Access the Application**
+5. **Access the Application**
    Open your browser and visit `http://127.0.0.1:5000/`
 
 ## 📖 Usage Instructions
@@ -198,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Flask Development Team - [@pallets](https://github.com/pallets/flask)
 - Python Development Community
-- Real Python Contributors - [realpython.com](https://realpython.com)
+- Banner Image - [realpython.com](https://realpython.com)
 
 
 
